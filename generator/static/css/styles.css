@@ -1,0 +1,9 @@
+
+body {
+  text-align: center;
+  background: #FFFFFF;    /* white */
+  color: darkslategray;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 30px;
+}
